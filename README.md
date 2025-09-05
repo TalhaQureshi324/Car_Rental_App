@@ -20,8 +20,8 @@ A **Flutter-based** car rental application that connects **car owners** with **c
 
 ## **🛠️ Tech Stack**  
 - **Frontend:** Flutter  
-- **Backend:** (To be decided, e.g., Firebase, Node.js, Django, etc.)  
-- **Database:** (To be decided, e.g., Firestore, PostgreSQL, MongoDB, etc.)  
+- **Backend:** Firebase  
+- **Database:** Firestore 
 
 ---
 
